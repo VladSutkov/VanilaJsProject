@@ -1,0 +1,17 @@
+#inDivImg{
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 120px;
+    margin-bottom: 10px;
+    
+}
+#font_in_Description{
+    font-size: 12px;
+}
+#font_in_Description .h3{
+    font-size: 18px;
+}
+#inSavedImg{
+    align-items: center;
+  
+}
